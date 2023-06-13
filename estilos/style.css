@@ -54,7 +54,7 @@ main{
 main > article{
     font-family: var(--font_texto);
     width: 40vw;
-    margin: 15px;
+    margin: 25px;
     font-size: 3.5vw;
     font-weight: normal;
     line-height: 2em;
